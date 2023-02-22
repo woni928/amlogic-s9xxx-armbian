@@ -4,7 +4,7 @@
 # Copyright (C) 2021 https://github.com/ophub/amlogic-s9xxx-armbian
 #==========================================================================
 
-name: 编译内核
+name: 编译需要的内核
 
 on:
   repository_dispatch:
